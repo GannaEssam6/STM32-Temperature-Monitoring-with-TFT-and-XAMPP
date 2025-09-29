@@ -1,0 +1,5 @@
+../Src/MUSART_Program.c:8:6:MUSART1_voidInit	4	static
+../Src/MUSART_Program.c:26:6:MUSART1_voidSendData	16	static
+../Src/MUSART_Program.c:33:4:MUSART1_u8ReceiveData	4	static
+../Src/MUSART_Program.c:40:6:MUSART1_voidSendString	24	static
+../Src/MUSART_Program.c:53:6:MUSART1_voidReceiveString	24	static

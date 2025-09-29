@@ -1,0 +1,3 @@
+../Src/MSPI_Program.c:16:6:MSPI_voidMasterInit	1
+../Src/MSPI_Program.c:37:6:MSPI_voidSlaveInit	1
+../Src/MSPI_Program.c:56:5:MSPI_u16Tranceive	3

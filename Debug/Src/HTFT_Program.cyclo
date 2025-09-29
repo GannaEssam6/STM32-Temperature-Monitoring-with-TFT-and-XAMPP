@@ -1,0 +1,4 @@
+../Src/HTFT_Program.c:13:6:HTFT_voidInit	1
+../Src/HTFT_Program.c:44:13:HTFT_voidWriteData	1
+../Src/HTFT_Program.c:49:13:HTFT_voidWriteCommand	1
+../Src/HTFT_Program.c:54:6:HTFT_voidDisplay	2

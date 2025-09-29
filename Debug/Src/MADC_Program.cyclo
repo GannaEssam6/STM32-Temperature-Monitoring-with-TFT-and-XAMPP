@@ -1,0 +1,2 @@
+../Src/MADC_Program.c:9:6:MADC1_voidInit	1
+../Src/MADC_Program.c:30:5:MADC1_u16ReadChannel	2

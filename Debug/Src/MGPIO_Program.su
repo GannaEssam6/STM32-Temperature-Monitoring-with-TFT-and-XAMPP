@@ -1,0 +1,7 @@
+../Src/MGPIO_Program.c:7:6:MGPIO_void_SetPinMode	16	static
+../Src/MGPIO_Program.c:36:6:MGPIO_void_OutputConfig	16	static
+../Src/MGPIO_Program.c:71:6:MGPIO_void_WritePinValue	16	static
+../Src/MGPIO_Program.c:100:6:MGPIO_void_SetAtomicPinValue	16	static
+../Src/MGPIO_Program.c:138:6:MGPIO_void_InputConfig	16	static
+../Src/MGPIO_Program.c:167:9:MGPIO_u8_ReadPinValue	24	static
+../Src/MGPIO_Program.c:195:6:MGPIO_void_AltFunConfig	16	static
